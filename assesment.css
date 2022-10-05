@@ -2,7 +2,7 @@ h1{
     font-size: 70px;
     text-align: right;
     margin-top: 200px;
-    margin-right: 400px;
+    margin-right: 300px;
     font-family: 'Helvetica';
 font-style: normal;
 font-weight: 700;
@@ -32,7 +32,7 @@ text-fill-color: transparent;
 p{
     font-size: large;
     margin-top: 30px;
-    margin-right: 400px;
+    margin-right: 300px;
     text-align: right;
     font-family: 'Helvetica';
     font-style: normal;
@@ -67,9 +67,9 @@ position: absolute;
 width: 320px;
 height: 55px;
 left: calc(50% - 320px/2 + 436px);
- 
- margin-top: 50px;
- margin-right: 700px;
+ margin-left: -180px;
+ margin-top: 30px;
+ /* margin-right: 700px; */
  /* top: 622px; */
 
 background: linear-gradient(90deg, #8456EC 3.25%, #E87BF8 100%);
@@ -80,9 +80,7 @@ font-weight: 700;
 font-size: 20px;
 line-height: 23px;
 /* identical to box height */
-
 text-align: right;
-
 color: #FFFFFF;
 
 }
