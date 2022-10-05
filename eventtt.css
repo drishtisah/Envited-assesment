@@ -22,9 +22,34 @@ color: #240D57;
 
 }
 h6{
+ 
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+
+color: #828282;
+}
+p{
+    font-family: 'Helvetica';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #240D57;
+}
+span{
     font-family: 'Helvetica';
 font-style: normal;
 font-weight: 400;
 font-size: 18px;
 line-height: 21px;
+/* identical to box height */
+
+
+color: #4F4F4F;
 }
