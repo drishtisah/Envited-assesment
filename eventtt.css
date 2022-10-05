@@ -6,7 +6,7 @@
 }
 .text{
     font-size: large;
-    margin-top: 170px;
+    margin-top: 140px;
     margin-left: 200px;
 }
 .new{
@@ -27,11 +27,11 @@ font-family: 'Helvetica';
 font-style: normal;
 font-weight: 400;
 font-size: 18px;
-line-height: 21px;
-
+line-height: 15px;
 color: #828282;
+margin-top: -10px;
 }
-p{
+p{margin-top: 10px;
     font-family: 'Helvetica';
 font-style: normal;
 font-weight: 700;
@@ -82,3 +82,7 @@ line-height: 23px;
 text-align: right;
 color: #FFFFFF;
 }
+
+
+
+/* --------------------------------------------------------------------------------------------- */
