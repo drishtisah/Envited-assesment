@@ -38,7 +38,7 @@ font-weight: 700;
 font-size: 18px;
 line-height: 21px;
 /* identical to box height */
-
+width: 400px;
 
 color: #240D57;
 }
@@ -83,6 +83,8 @@ text-align: right;
 color: #FFFFFF;
 }
 
-
+body{
+    
+}
 
 /* --------------------------------------------------------------------------------------------- */

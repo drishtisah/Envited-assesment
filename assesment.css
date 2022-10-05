@@ -86,3 +86,39 @@ color: #FFFFFF;
 }
 
 /* ----------------------------------------------------------------------------------------------- */
+@media(max-width: 952px){
+    h1{
+        font-size: 70px;
+        text-align: center;
+        margin-right: 85px;
+    
+    }
+
+    p{
+        margin-right: 95px;
+        text-align: center;
+        font-size: large;
+       
+       
+    }
+    .img1{
+       position:static;
+       padding-top: -100px;
+       margin-left: 98px;
+    }
+    button{
+        position: absolute;
+        margin-left: -500px;
+        margin-top: -10px;
+    }
+}
+
+/* --------------------------------------------------- */
+
+@media(max-width: 852px){
+    .img1{
+        position:static;
+        padding-top: -100px;
+        margin-left: 98px;
+    }
+}
