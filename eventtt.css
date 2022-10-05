@@ -6,6 +6,25 @@
 }
 .text{
     font-size: large;
-    margin-top: 170px;
-    margin-left: 400px;
+    margin-top: 200px;
+    margin-left: 200px;
+}
+.new{
+    font-family: 'Helvetica';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 55px;
+display: flex;
+align-items: center;
+
+color: #240D57;
+
+}
+h6{
+    font-family: 'Helvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
 }
