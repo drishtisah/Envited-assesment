@@ -9,6 +9,14 @@ p{
     margin-top: 30px;
     margin-right: 400px;
     text-align: right;
+      
+}
+.img1{
     
+    position: absolute;
+    margin-top: 20px;
+    margin: 160px;
+    padding-right: 20%;
    
+   bottom: -20%;
 }
