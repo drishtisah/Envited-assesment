@@ -28,12 +28,22 @@ background-clip: text;
 text-fill-color: transparent;
 
 }
+
 p{
     font-size: large;
     margin-top: 30px;
     margin-right: 400px;
     text-align: right;
-      
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: right;
+    
+    color: #4F4F4F;
+    
+     
 }
 .img1{
     
